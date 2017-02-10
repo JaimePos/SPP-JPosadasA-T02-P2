@@ -34,6 +34,6 @@ public class SPPJPosadasAT02P2 {
                 System.out.println(valinf + " es divisible entre 5");
             }
         }
-        while(valinf < (valsup - 1));
+        while(valinf < valsup);
     }
 }      
